@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+opencv-python
+pdf2image
+psycopg2
+jsonschema
+easyocr

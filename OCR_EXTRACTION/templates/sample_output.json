@@ -1,0 +1,10 @@
+{
+    "patient_name": "Unknown",
+    "dob": "Unknown",
+    "date": "Unknown",
+    "injection": "Yes",
+    "exercise_therapy": "Yes",
+    "difficulty_ratings": {
+      "sleeping": 0
+    }
+  }
